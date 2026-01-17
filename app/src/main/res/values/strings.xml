@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Utilities Tracker</string>
+
+    <string name="title_utilities_tracker">Utilities Tracker</string>
+    <string name="btn_readings">Istoric citiri</string>
+    <string name="btn_tariffs">Tarife</string>
+    <string name="btn_settings">Setari</string>
+    <string name="btn_toggle_dashboard_hide">Ascunde sumar</string>
+    <string name="btn_toggle_dashboard_show">Arata sumar</string>
+    <string name="label_water">Apa</string>
+    <string name="label_electricity">Curent</string>
+    <string name="label_gas">Gaz</string>
+</resources>
